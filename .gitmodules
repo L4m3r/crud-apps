@@ -1,0 +1,3 @@
+[submodule "go-crud-app"]
+	path = go-crud-app
+	url = git@github.com:L4m3r/go-crud-app.git
